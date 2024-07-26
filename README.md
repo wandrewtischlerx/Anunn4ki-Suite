@@ -1,11 +1,13 @@
 
-<img src="https://raw.githubusercontent.com/wandrewtischlerx/Anunn4ki-Suite/main/IMAGENS/Anunn4ki-Suite.PNG" alt="Anunn4ki-Suite">
 
-<h1>Annun4ki Suite</h1>
+<img src="https://raw.githubusercontent.com/wandrewtischlerx/Anunn4ki-Suite/main/anunn4ki.PNG" alt="Anunn4ki-Suite">
+
+
+<h1>Annun4ki Suite v0.3</h1>
 
 ---
 
-Anunn4ki Suite é uma ferramenta avançada desenvolvida por Wandrew Tischler, projetada para realizar uma varredura de portas abertas e identificar a presença de serviços específicos usando IPs aleatórios. O software emprega uma interface colorida que destaca os resultados para uma visualização clara e imediata. Aproveitando a capacidade de múltiplas threads, o Anunn4ki Suite garante um desempenho otimizado ao executar suas tarefas de verificação simultaneamente. Ele realiza testes de conexão de forma eficaz, avaliando a disponibilidade de portas e a presença de serviços, proporcionando assim uma análise abrangente e eficiente das redes monitoradas.
+Anunn4ki Suite é uma ferramenta avançada desenvolvida por Wandrew Tischler, projetada para realizar uma varredura de portas abertas e identificar a presença de serviços específicos usando IPs aleatórios de ranges pré-definidas. O software emprega uma interface colorida que destaca os resultados para uma visualização clara e imediata. Aproveitando a capacidade de múltiplas threads, o Anunn4ki Suite garante um desempenho otimizado ao executar suas tarefas de verificação simultaneamente. Ele realiza testes de conexão de forma eficaz, avaliando a disponibilidade de portas e a presença de serviços, proporcionando assim uma análise abrangente e eficiente das redes monitoradas.
 
 O Anunn4ki Suite é especialmente projetado para identificar portas e serviços específicos que possam ser alvos de testes de segurança, como vulnerabilidades de 0day ou exploits conhecidos. O software permite que os usuários configurem e especifiquem serviços de interesse, facilitando a detecção de redes que podem ser exploradas em avaliações de segurança. Essa capacidade é essencial para realizar testes de determinados metodos.
 <h2>Instalação:</h2>
