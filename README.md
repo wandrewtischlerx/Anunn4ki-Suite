@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/wandrewtischlerx/Anunn4ki-Suite/main/anunn4ki.PNG" alt="Anunn4ki-Suite">
+<img src="https://raw.githubusercontent.com/wandrewtischlerx/Anunn4ki-Suite/main/IMAGENS/anunn4ki.PNG" alt="Anunn4ki-Suite">
 
 
 <h1>Annun4ki Suite v0.3</h1>
@@ -23,8 +23,15 @@ pip install -r requirements.txt
 1. Buscar Apenas Portas Abertas
 Esta opção testa se uma porta específica está aberta em múltiplos IPs gerados aleatoriamente. Se a porta estiver aberta, o script coleta e exibe o banner do serviço (se disponível) associado a essa porta.
 
+<img src="https://raw.githubusercontent.com/wandrewtischlerx/Anunn4ki-Suite/main/IMAGENS/funcao1.PNG" alt="Anunn4ki-Suite funcao 1">
+<img src="https://raw.githubusercontent.com/wandrewtischlerx/Anunn4ki-Suite/main/IMAGENS/funcao1final.PNG" alt="Anunn4ki-Suite funcao 1 final">
+
 2. Buscar Serviços e Suas Versões
 Esta opção verifica se um serviço específico está rodando em uma porta definida para múltiplos IPs gerados aleatoriamente. Se o serviço estiver encontrado, o script identifica e exibe o banner, incluindo a versão do serviço se for fornecida, mostrando apenas os banners que correspondem à versão especificada.
+
+<img src="https://raw.githubusercontent.com/wandrewtischlerx/Anunn4ki-Suite/main/IMAGENS/funcao2.PNG" alt="Anunn4ki-Suite funcao 2">
+<img src="https://raw.githubusercontent.com/wandrewtischlerx/Anunn4ki-Suite/main/IMAGENS/funcao2final.PNG" alt="Anunn4ki-Suite funcao 2 final">
+
 
 <h2>Contribuições:</h2>
 
