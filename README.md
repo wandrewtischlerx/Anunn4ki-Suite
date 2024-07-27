@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wandrewtischlerx/Anunn4ki-Suite/main/IMAGENS/anunn4ki.PNG" alt="Anunn4ki-Suite">
 
 
-<h1>Annun4ki Suite v0.3</h1>
+<h1>Annun4ki Suite v0.5</h1>
 
 ---
 
